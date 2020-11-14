@@ -1,3 +1,5 @@
+# 为了便于维护， 项目已迁移
+[https://github.com/648540858/wvp-GB28181-pro.git](https://github.com/648540858/wvp-GB28181-pro.git)
 # wvp
 WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，负责实现核心信令与设备管理后台部分，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。   
 流媒体服务基于ZLMediaKit-https://github.com/xiongziliang/ZLMediaKit
